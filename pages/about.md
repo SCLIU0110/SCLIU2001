@@ -1,12 +1,20 @@
 ---
-layout: page
-title: About
-permalink: /about/
+Songchen Liu, 刘凇辰
 ---
 
-Jekyll Paper is a simple Jekyll theme, and it is aim to helping you to create your own blog by the easiest way.
+I am now a second-year master's student in CNU(Capital Normal University).  If all goes well, I will graduate in the summer of 2026. Before that, I was an undergraduate student in the Department of Mathematics at CNU.
 
-You can find more information in [Jekyll Paper][jekyll-paper]. If you have any questions or suggestions, you can contact me in [Jekyll Paper Issues][jekyll-paper-issues] or send email to [me](mailto:i@ghosind.com). Wish you enjoying your blog life!
+My interest lies in complex geometry and complex analysis.
 
-[jekyll-paper]: https://github.com/ghosind/Jekyll-Paper
-[jekyll-paper-issues]: https://github.com/ghosind/Jekyll-Paper/issues
+Email:2230502073@cnu.edu.cn, and 3340745611@qq.com(personal).
+
+---
+Papers
+---
+
+Characterizing the range of the complex Monge-Ampère operator, https://arxiv.org/abs/2412.03445.
+
+---
+Notes
+---
+I am (slowly) writing a Notes on Pluripotential theory and singular KE metric. This covers almost all the topics of the SCV seminar that I (and my advisor) hosted at CNU.
